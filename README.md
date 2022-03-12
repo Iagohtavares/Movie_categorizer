@@ -29,6 +29,6 @@ Já no segundo terminal, utilize o comando:
 ```
 \$ yarn server
 ```
-:
+
 Com ambos os terminais abertos e executando os comandos supracitados, basta acessar: http://localhost:8080/ e ser feliz. 
 Aproveite!
