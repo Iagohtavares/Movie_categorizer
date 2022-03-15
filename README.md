@@ -3,6 +3,12 @@
 Um site de categorizador de filmes, projeto realizado utilizando o Fake API com JSON Server e ReactJS. O proposito do mesmo é consolidar os conhecimentos em ReactJS mais especificamente em componentização da aplicação.
 
 
+## Quais tecnologias utilizadas?
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [SASS](https://sass-lang.com/)
+- [Webpack](https://webpack.js.org/)
+
 ## INSTALAÇÃO
 
 Para utilizar este projeto basta primeiramente clonar este repositório utilizando o comando em seu terminal:
