@@ -26,7 +26,7 @@ Instalar as dependencias do projeto com o comando:
 \$ yarn
 ```
 
-Após concluir as intalações das dependencias, serão necessários dois terminais de comando. No primeiro terminal utilize o comando:
+Após concluir as instalações das dependencias, serão necessários dois terminais de comando. No primeiro terminal utilize o comando:
 ```
 \$ yarn dev
 ```
